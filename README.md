@@ -16,9 +16,10 @@ It’s developed by google borg. its open source and it’s used as Container or
 - Kube proxy
 - Container runtime 
 
-### K8s Production System:
+### Kops-K8s Production System:
 Kops: Kubernetes operation 
 #### Life cycles of Kubernetes and its managed by kops 
+- Creation of cluster
 - upgrade 
 - Modification 
 - Deletion
