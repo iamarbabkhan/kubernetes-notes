@@ -45,6 +45,9 @@ a deployment is a declarative way to manage and control the deployment of applic
 ### Kubernetes Service:
 - Load Balancing
 - service discovery-Lebels and slectors
+a. Cluster ip- its default one which is only access inside the k8s cluster
+b. Node port- its only access from inside the organisation and its acess to from node
+c. load balancer: its acess from external world
 
 ### Terms:
 - Cluster - Group of nodes
