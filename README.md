@@ -42,6 +42,10 @@ a deployment is a declarative way to manage and control the deployment of applic
 
 - Deployment-Replica set-Pods
 
+### Kubernetes Service:
+- Load Balancing
+- service discovery
+
 ### Terms:
 - Cluster - Group of nodes
 - Kubernetes is master and node architecture 
