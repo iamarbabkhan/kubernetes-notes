@@ -44,7 +44,7 @@ a deployment is a declarative way to manage and control the deployment of applic
 
 ### Kubernetes Service:
 - Load Balancing
-- service discovery
+- service discovery-Lebels and slectors
 
 ### Terms:
 - Cluster - Group of nodes
