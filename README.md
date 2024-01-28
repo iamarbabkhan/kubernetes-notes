@@ -33,6 +33,9 @@ Kops: Kubernetes operation for aws and azure
 - Gke
 - Dke
 
+#### Kubernetes Deployment:
+
+
 ### Terms:
 - Cluster - Group of nodes
 - Kubernetes is master and node architecture 
