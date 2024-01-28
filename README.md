@@ -33,8 +33,8 @@ Kops: Kubernetes operation for aws and azure
 - Gke
 - Dke
 
-#### Kubernetes Deployment:
-
+### Kubernetes Deployment:
+- Deployment-Replica set-Pods
 
 ### Terms:
 - Cluster - Group of nodes
