@@ -34,6 +34,12 @@ Kops: Kubernetes operation for aws and azure
 - Dke
 
 ### Kubernetes Deployment:
+a deployment is a declarative way to manage and control the deployment of applications using replica set.
+
+#### Pod vs Deployment
+- A pod is a unit including one or more containers
+- A Deployment is a management tool for controlling the behavior of pods.
+
 - Deployment-Replica set-Pods
 
 ### Terms:
