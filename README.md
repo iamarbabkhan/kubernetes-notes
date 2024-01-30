@@ -51,6 +51,7 @@ a deployment is a declarative way to manage and control the deployment of applic
 
 ### Terms:
 - Cluster - Group of nodes
+- Loadbalncing
 - Namespace - its a way to organize isolated virtual sub-cluster in cluster
 - Kubernetes is master and node architecture 
 - Cncf - Cloud native computing foundation 
