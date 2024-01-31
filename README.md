@@ -49,6 +49,18 @@ a deployment is a declarative way to manage and control the deployment of applic
 2. Node port- its only access from inside the organisation and its acess to from node
 3. load balancer: its acess from external world
 
+#### Ingress Controller:
+
+1. Path based routing: http://example.com/about
+- Note: /about is path based routing
+
+2. Host based routing: http://support.example.com
+- Note: support. Is host based routing
+
+3. Ssl termination:
+Https- which is secure 
+
+
 ### Terms:
 - Cluster - Group of nodes
 - Loadbalncing
