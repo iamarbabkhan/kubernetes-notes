@@ -76,6 +76,13 @@ To extend kubernetes api or to create new resources in kubernetes
 ### Custom Controller (CC)
 Custom controller implement CRD and make sure that current state matches the desire state
 
+### Configmap
+Configmap is stored data that data later used in application deployment and pods 
+Non sensitive data will be stored in configmap
+
+### Secret
+Sensitive data will be stored in secret. Like username and password and api keys
+
 ### Terms:
 - Cluster - Group of nodes
 - Loadbalncing
