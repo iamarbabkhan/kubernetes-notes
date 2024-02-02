@@ -89,3 +89,6 @@ Sensitive data will be stored in secret. Like username and password and api keys
 - Namespace - its a way to organize isolated virtual sub-cluster in cluster
 - Kubernetes is master and node architecture 
 - Cncf - Cloud native computing foundation 
+- Stateful - Stateful apps save client session data on the server
+- Stateless - stateless apps don't save client session data on the server
+- environment variable might be used to tell a program where to find your "Documents" folder or to customize the behavior of a software application based on your preferences.
