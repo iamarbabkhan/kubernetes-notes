@@ -60,6 +60,21 @@ a deployment is a declarative way to manage and control the deployment of applic
 3. Ssl termination:
 Https- which is secure 
 
+### RBAC: Role based access control 
+1. Service account / user
+2. Roles / cluster roles
+3. Role binding / cluster role binding (CRB)
+
+Service account - Role - Role Binding 
+
+### Custom Resources (CR)
+Its a instance of crd
+
+### Custom Resources Definition (CRD)
+To extend kubernetes api or to create new resources in kubernetes 
+
+### Custom Controller (CC)
+Custom controller implement CRD and make sure that current state matches the desire state
 
 ### Terms:
 - Cluster - Group of nodes
