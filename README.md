@@ -40,7 +40,7 @@ a deployment is a declarative way to manage and control the deployment of applic
 - A pod is a unit including one or more containers
 - A Deployment is a management tool for controlling the behavior of pods.
 
-- Deployment-Replica set-Pods
+- Deployment->Replica set->Pods
 
 ### Kubernetes Service:
 - Load Balancing
