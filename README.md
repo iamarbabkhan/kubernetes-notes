@@ -36,7 +36,10 @@ Kops: Kubernetes operation for aws and azure
 ### Kubernetes Deployment:
 a deployment is a declarative way to manage and control the deployment of applications using replica set.
 
-#### Pod vs Deployment
+### Why pods:
+In docker to run container we have to put lots of cmd. After pod just have to write yaml file that is enough to run one and multiple containers.
+
+#### Pod vs Deployment:
 - A pod is a unit including one or more containers
 - A Deployment is a management tool for controlling the behavior of pods.
 
@@ -67,20 +70,20 @@ Https- which is secure
 
 Service account - Role - Role Binding 
 
-### Custom Resources (CR)
+### Custom Resources (CR):
 Its a instance of crd
 
-### Custom Resources Definition (CRD)
+### Custom Resources Definition (CRD):
 To extend kubernetes api or to create new resources in kubernetes 
 
-### Custom Controller (CC)
+### Custom Controller (CC):
 Custom controller implement CRD and make sure that current state matches the desire state
 
-### Configmap
+### Configmap:
 Configmap is stored data that data later used in application deployment and pods 
 Non sensitive data will be stored in configmap
 
-### Secret
+### Secret:
 Sensitive data will be stored in secret. Like username and password and api keys
 
 ### Terms:
