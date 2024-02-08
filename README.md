@@ -53,7 +53,7 @@ In docker to run container we have to put lots of cmd. After pod just have to wr
 3. load balancer: its acess from external world
 
 #### Ingress Controller:
-
+Ingress is route the traffic inside the cluster
 1. Path based routing: http://example.com/about
 - Note: /about is path based routing
 
