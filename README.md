@@ -38,7 +38,7 @@ a deployment is a declarative way to manage and control the deployment of applic
 
 ### Why pods:
 In docker to run container we have to put lots of cmd. After pod just have to write yaml file that is enough to run one and multiple containers.
-
+- Ip address not generated for containers but for pods
 #### Pod vs Deployment:
 - A pod is a unit including one or more containers
 - A Deployment is a management tool for controlling the behavior of pods.
