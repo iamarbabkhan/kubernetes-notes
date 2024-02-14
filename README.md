@@ -1,5 +1,5 @@
 ### Kubernetes:
-It’s developed by google borg. its open source and it’s used as Container orchestration platform 
+It’s developed by google borg. it's open source and it’s used as Container orchestration platform 
 
 ### Kubernetes Architechture:
 ![diagram](https://miro.medium.com/v2/resize:fit:5756/1*t2kujM8JnnAU1EmJkBX-QQ.png)
