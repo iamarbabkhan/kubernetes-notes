@@ -43,7 +43,7 @@ In docker to run container we have to put lots of cmd. After pod just have to wr
 - A pod is a unit including one or more containers
 - A Deployment is a management tool for controlling the behavior of pods.
 
-- Deployment->Replica set->Pods
+- Deployment -> Replica set -> Pods
 
 ### Kubernetes Service:
 - Load Balancing
