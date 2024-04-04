@@ -71,7 +71,7 @@ Https- which is secure
 Service account - Role - Role Binding 
 
 ### Operator
-its bundling, packagong and managing kubernetes controller.
+its bundling, packaging and managing kubernetes controller.
 
 ### Custom Resources (CR):
 Its a instance of crd
