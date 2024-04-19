@@ -37,7 +37,7 @@ Kops: Kubernetes operation for aws and azure
 a deployment is a declarative way to manage and control the deployment of applications using replica set.
 
 ### Why pods:
-In docker to run container we have to put lots of cmd. After pod just have to write yaml file that is enough to run one and multiple containers.
+In docker to run container we have to put lots of cmd. But in pods just have to write yaml file that is enough to run one and multiple containers.
 - Ip address not generated for containers but for pods
 #### Pod vs Deployment:
 - A pod is a unit including one or more containers
