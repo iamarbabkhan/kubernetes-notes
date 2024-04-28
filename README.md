@@ -91,7 +91,7 @@ Sensitive data will be stored in secret. Like username and password and api keys
 
 ### Terms:
 - Cluster - Group of nodes
-- Loadbalncing
+- Loadbalancing
 - Namespace - its a way to organize isolated virtual sub-cluster in cluster
 - Kubernetes is master and node architecture 
 - Cncf - Cloud native computing foundation 
