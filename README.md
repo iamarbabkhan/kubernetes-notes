@@ -58,7 +58,7 @@ Ingress controller is route the external traffic to inside the cluster
 - Note: /about is path based routing
 
 2. Host based routing: http://support.example.com
-- Note: support. Is host based routing
+- Note: /support Is host based routing
 
 3. Ssl termination:
 Https- which is secure 
