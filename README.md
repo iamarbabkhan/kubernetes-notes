@@ -18,7 +18,7 @@ It’s developed by google borg. it's open source and it’s used as a Container
 
 ### Kops-K8s Production System:
 Kops: Kubernetes operation for aws and azure
-#### Life cycles of Kubernetes and its managed by kops 
+#### Life cycles of Kubernetes
 - Creation of cluster
 - upgrade 
 - Modification 
